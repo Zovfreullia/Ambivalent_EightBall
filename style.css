@@ -1,0 +1,45 @@
+#answer {
+
+	color: white;
+	background: white;
+	background-image: url('eightball.png');
+	height:600px;
+	width:800px;
+	position: relative;
+	z-index: 0;
+	text-align: center;
+	line-height: 585px;
+	font-size: 10px;
+	font-family: Helvetica;
+	float:right;
+}
+
+#eightball{
+	float:right;
+	position: absolute;
+	z-index: 1;
+}
+
+#question{
+	 border: 1px dotted gray; 
+	 border-radius: 4px;
+	 height: 20px;
+	 font-size: 10px;
+	 letter-spacing: 2px;
+	 z-index: 2;
+	 margin-top: 350px;
+	 margin-left: 70px;
+	 position: absolute;
+	 float:left;
+}
+
+#ask{
+	border: 2px dotted gray; 
+	 border-radius: 4px;
+	 background: white;
+	margin-left: 350px;
+	z-index: 2;
+	margin-top: 350px;
+	position: absolute;
+	float: left;
+}
