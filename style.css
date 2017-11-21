@@ -27,13 +27,6 @@ body {
 }
 
 .col-sm-12 {
-	position: absolute;
-  	display: table;
-  	background-color: black;
-  	background: url('eightball.png');
-  	background-position: center;
-  	background-repeat: no-repeat;
-  	background-size: contain;
   	height:100%;
   	width: 100%; 
 }
