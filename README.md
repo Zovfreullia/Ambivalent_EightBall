@@ -6,4 +6,6 @@
 
 What happens when your fortune teller is a nihlist? Well, this is what happens-- the ambivalent eight ball. Answers are randomized and users can ask as many questions as they want.
 
+Enter the question in the input box provided and then click <strong>ASK</strong>.
+
 <sub>WARNING: Please do not take the advice seriously, <i>seriously</i>.</sub>
